@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Reviews Tech | Ofertas e Descontos que Valem a Pena</title>
+
+<meta name="description" content="Reviews honestos de produtos de tecnologia. Descubra se vale a pena comprar e aproveite ofertas com ótimo custo-benefício.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 900px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+}
+h1, h2, h3 {
+  color: #111;
+}
+.produto {
+  border-bottom: 1px solid #ddd;
+  padding: 20px 0;
+}
+.botao {
+  display: inline-block;
+  background: #00a650;
+  color: #fff;
+  padding: 12px 18px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.alerta {
+  background: #fff3cd;
+  padding: 15px;
+  border-radius: 6px;
+  margin: 20px 0;
+}
+.vip {
+  background: #111;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 30px;
+}
+.vip a {
+  background: #25D366;
+  color: #fff;
+  padding: 12px 18px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.footer {
+  font-size: 14px;
+  color: #555;
+  margin-top: 40px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🔥 Reviews Tech & Ofertas que Valem a Pena</h1>
+<p>Saiba se realmente vale a pena comprar antes de gastar seu dinheiro.</p>
+
+<div class="vip">
+<h2>🚨 GRUPO VIP DE DESCONTOS</h2>
+<p>Últimas vagas! Ofertas reais e exclusivas.</p>
+<a href="https://chat.whatsapp.com/BkBMEN54wBtLE3YIxmZElj" target="_blank">
+👉 Entrar no Grupo VIP Gratuito
+</a>
+</div>
+
+<!-- PRODUTO 1 -->
+<div class="produto">
+<h2>📱 Motorola Moto G05 — Review Completo</h2>
+
+<p><strong>Preço:</strong> 12x de R$ 66,00</p>
+
+<h3>👉 Por que vale comprar agora</h3>
+<ul>
+<li>✔️ Autonomia incrível, bateria que realmente dura</li>
+<li>✔️ Desempenho acima da média com RAM Boost</li>
+<li>✔️ Câmera de 50 MP com IA</li>
+<li>✔️ Android atualizado e interface limpa</li>
+</ul>
+
+<div class="alerta">
+<strong>⚠️ Atenção:</strong> Não possui 5G nem NFC. Tela HD+, mas muito boa pelo preço.
+</div>
+
+<p><strong>Resumo:</strong> excelente custo-benefício para redes sociais, vídeos e fotos.</p>
+
+<a class="botao" href="https://mercadolivre.com/sec/2LBDDB2" target="_blank">
+🛒 Ver oferta no Mercado Livre
+</a>
+</div>
+
+<!-- PRODUTO 2 -->
+<div class="produto">
+<h2>🌍 Kit Internet Via Satélite Starlink</h2>
+
+<h3>👉 Por que vale a pena comprar</h3>
+<ul>
+<li>✔️ Internet onde nenhum outro provedor chega</li>
+<li>✔️ Baixa latência comparada a satélites tradicionais</li>
+<li>✔️ Instalação simples, sem técnico</li>
+<li>✔️ Sem contrato de fidelidade</li>
+</ul>
+
+<div class="alerta">
+<strong>⚠️ Antes de comprar:</strong> Equipamento e mensalidade são mais altos. Sinal depende de visão limpa do céu.
+</div>
+
+<p><strong>Desconto:</strong> 15% OFF</p>
+
+<a class="botao" href="https://mercadolivre.com/sec/2Cs5Tr4" target="_blank">
+🛒 Conferir oferta Starlink
+</a>
+</div>
+
+<!-- PRODUTO 3 -->
+<div class="produto">
+<h2>📱 Tablet Samsung Galaxy Tab S10 FE</h2>
+
+<p>
+Tela 10.9" 90Hz, 8GB RAM, 128GB, Wi-Fi e S Pen inclusa.
+</p>
+
+<p>
+Ideal para estudos, trabalho e entretenimento. Fluidez excelente, desempenho confiável e qualidade Samsung.
+</p>
+
+<p><strong>Resumo:</strong> potente, versátil e pronto pra tudo.</p>
+
+<a class="botao" href="https://mercadolivre.com/sec/1vRB1Vj" target="_blank">
+🛒 Ver oferta do Tablet
+</a>
+</div>
+
+<!-- PRODUTO 4 -->
+<div class="produto">
+<h2>🧹 Robô Aspirador WAP Robot W90</h2>
+
+<ul>
+<li>✔️ Varre, aspira e passa pano</li>
+<li>✔️ Sensores antiqueda</li>
+<li>✔️ Design baixo para móveis</li>
+<li>✔️ Ideal para pets e rotina corrida</li>
+</ul>
+
+<p><strong>Resumo:</strong> limpeza automática que economiza tempo.</p>
+
+<a class="botao" href="https://mercadolivre.com/sec/1vRB1Vj" target="_blank">
+🛒 Comprar agora
+</a>
+</div>
+
+<div class="footer">
+<h3>Quem Somos</h3>
+<p>
+Somos um site especializado em reviews de tecnologia, focado em análises claras,
+honestas e no melhor custo-benefício. Trabalhamos apenas com plataformas confiáveis
+para garantir segurança e tranquilidade na sua compra.
+</p>
+
+<p><strong>Aviso:</strong> Podemos receber comissões por meio de links afiliados, sem custo adicional para você.</p>
+</div>
+
+</div>
+
+</body>
+</html>
